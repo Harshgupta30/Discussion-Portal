@@ -1,0 +1,66 @@
+nav{
+    background-color: #009eb9;
+    color: white;
+    font-size: 1.5em;
+    padding: 10px;
+    font-weight: 600;
+    height: 3em;
+}
+.m:hover{
+    cursor: pointer;
+}
+#ques{
+    background-color: black;
+    margin-top: 10px;
+    width: 100%;
+    height: 78vh;
+}
+.ro{
+    border:1px solid #9b9a9a;
+    text-decoration: none;
+}
+#head{
+    color: white;
+}
+#left{
+    background-color: black;
+}
+#right{
+    background-color: black;
+    color: white;
+    height: 95vh;
+}
+.content{
+    margin-top: 10px;
+    width: 100%;
+    height: 20vh;
+}
+a:hover{
+    cursor: pointer;
+}
+#response{
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+    padding: 5px;
+    background-color: #63fdb0;
+    width: 98%;
+    border-radius: 2%;
+}
+.cl{
+    display: none;
+}
+
+#resolveside{
+    background-color: black;
+    height: 95vh;
+    color: white;
+    min-height: 100%;
+}
+
+
+
+a{
+    text-decoration: none;
+}
